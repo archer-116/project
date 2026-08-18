@@ -129,4 +129,4 @@ streamlit run app.py       # launches the app at http://localhost:8501
 
 ## Live Demo
 
-- **Streamlit App:** `<paste your Streamlit Community Cloud URL here>`
+- **Streamlit App:** `https://project-kpsegdxqokledhxs3qqx6z.streamlit.app/`
