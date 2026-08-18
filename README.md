@@ -45,9 +45,7 @@ This is a **binary classification** problem (target column `y`: `yes` / `no`).
 
 ## c. GitHub Repository Link
 
-`https://github.com/<your-username>/<your-repo-name>`
-*(Replace with your actual repository link before submitting — see Section 6
-"How to Create the GitHub Repo" below.)*
+`https://github.com/archer-116/project`
 
 ---
 
